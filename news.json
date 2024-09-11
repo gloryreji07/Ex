@@ -1,0 +1,70 @@
+[
+    {
+      "id": "bbc-news",
+      "name": "BBC News",
+      "author": "Jane Smith",
+      "title": "Another Important Event",
+      "description": "Details about another important event happening around the world.",
+      "url": "https://www.bbc.com/news/world/2024/important-event",
+      "urlToImage": "https://cdn.bbc.com/news/images/important-event.jpg",
+      "publishedAt": "2024-09-08T10:20:00Z",
+      "content": "This is the full article content for the important event happening globally."
+    },
+    {
+      "id": "cnn-news",
+      "name": "CNN News",
+      "author": "John Doe",
+      "title": "Global Market Analysis",
+      "description": "A comprehensive look at the global markets today.",
+      "url": "https://www.cnn.com/news/global-market-analysis",
+      "urlToImage": "https://cdn.cnn.com/images/global-market.jpg",
+      "publishedAt": "2024-09-08T09:30:00Z",
+      "content": "The global markets are fluctuating due to several factors."
+    },
+    {
+      "id": "al-jazeera",
+      "name": "Al Jazeera",
+      "author": "Ayesha Khan",
+      "title": "Climate Change Impacts",
+      "description": "How climate change is affecting global weather patterns.",
+      "url": "https://www.aljazeera.com/news/climate-change-impacts",
+      "urlToImage": "https://cdn.aljazeera.com/news/images/climate-change.jpg",
+      "publishedAt": "2024-09-07T14:15:00Z",
+      "content": "The world is witnessing significant climate changes, with increasing occurrences of extreme weather."
+    },
+    {
+      "id": "reuters-news",
+      "name": "Reuters",
+      "author": "Mark Spencer",
+      "title": "Tech Innovations",
+      "description": "Latest tech innovations reshaping industries.",
+      "url": "https://www.reuters.com/news/tech-innovations",
+      "urlToImage": "https://cdn.reuters.com/images/tech-innovations.jpg",
+      "publishedAt": "2024-09-06T11:00:00Z",
+      "content": "Tech companies are rolling out new innovations that will redefine the future."
+    },
+    {
+      "id": "ny-times",
+      "name": "New York Times",
+      "author": "Anna Green",
+      "title": "Political Shifts in Europe",
+      "description": "Europe sees a new wave of political shifts.",
+      "url": "https://www.nytimes.com/news/political-shifts-europe",
+      "urlToImage": "https://cdn.nytimes.com/news/images/political-shifts.jpg",
+      "publishedAt": "2024-09-05T08:45:00Z",
+      "content": "European politics are undergoing significant changes as new leaders emerge."
+    },
+    {
+      "id": "fox-news",
+      "name": "Fox News",
+      "author": "Michael Brown",
+      "title": "Sports Events Worldwide",
+      "description": "Major sports events happening across the globe.",
+      "url": "https://www.fox.com/news/sports-events-worldwide",
+      "urlToImage": "https://cdn.foxnews.com/news/images/sports-events.jpg",
+      "publishedAt": "2024-09-04T13:25:00Z",
+      "content": "The world of sports is buzzing with several major events in action."
+    }
+    
+  ]
+  

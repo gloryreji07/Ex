@@ -1,0 +1,28 @@
+body {
+    background-color: #f0f4f8;
+}
+
+
+.backdrop-blur-md {
+    backdrop-filter: blur(10px);
+}
+
+input:valid {
+    border-color: green;
+}
+
+input:invalid {
+    border-color: red;
+}
+
+small {
+    display: none;
+}
+
+input:invalid + small {
+    display: block;
+}
+
+.error-visible {
+    display: block;
+}
